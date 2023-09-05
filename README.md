@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Cortnas a front-end developer
 - 🌱 Larning Data Science in college Univesp
 - 👀 I’m interested in Build Softwares, Machine Learning Models, SQL, Databases and Python
-- 📫 How to reach me marketing@felipecortinas.com.br
+- 📫 How to reach me felipecortinas@midiadistinta.com.br / felipecortinas444@gmail.com
 
 <!---
 felipecortinas/felipecortinas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
